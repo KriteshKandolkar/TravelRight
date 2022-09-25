@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/index.html"
-  to = "/TravelRight/Index"
-  status = 301
-  force = true
